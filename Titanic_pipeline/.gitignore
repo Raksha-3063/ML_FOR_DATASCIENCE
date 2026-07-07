@@ -1,0 +1,19 @@
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Pycache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data
+data/**/*.csv
+data/**/*.parquet
+data/**/*.pkl
+
+# Jupyter Notebook
+.ipynb_checkpoints
